@@ -1,0 +1,44 @@
+{
+    "students": [
+        {
+            "firstName" : "Nagendra Babu",
+            "dob": "1992-01-01",
+
+            "addresses": [
+                {
+                    "type": "perm",
+                    "flatNumber": 104,
+                    "street":"gandhi nagar",
+                    "city": "hyderabad"
+                },
+                {
+                "type": "current",
+                    "flatNumber": 104,
+                    "street":"gandhi nagar",
+                    "city": "hyderabad" 
+                }
+            ],
+            "skills": ["java", "devops", "cloud"]
+        },
+        {
+            "firstName" : "Nagendra Babu",
+            "dob": "1992-01-01",
+
+            "addresses": [
+                {
+                    "type": "perm",
+                    "flatNumber": 104,
+                    "street":"gandhi nagar",
+                    "city": "hyderabad"
+                },
+                {
+                "type": "current",
+                    "flatNumber": 104,
+                    "street":"gandhi nagar",
+                    "city": "hyderabad" 
+                }
+            ],
+            "skills": ["java", "devops", "cloud"]
+        }
+    ]
+}
