@@ -3,6 +3,7 @@
   connection: local
   vars:
     topics: linux, shell, ansible, terraform
+    course: "DevOps with Ansible"
     tagsMap: 
       name: ansible
       project: roboshop
@@ -52,4 +53,4 @@
 
   - name: convert to lower case 
     ansible.builtin.debug:
-      msg: "{{ course | lower }}"                      
+      msg: "{{ course | lower }}"                     
